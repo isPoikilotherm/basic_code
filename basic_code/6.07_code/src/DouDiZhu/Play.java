@@ -83,6 +83,10 @@ public class Play {
             }
 
         }
+        Collections.sort(one);
+        Collections.sort(two);
+        Collections.sort(three);
+        Collections.sort(end);
 
 
         System.out.println(one);
