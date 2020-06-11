@@ -18,6 +18,7 @@ public class Demo01WaitAndNotify {
                     e.printStackTrace();
                 }*/
                 synchronized (object){
+
                     System.out.println("要求");
                     try {
 
