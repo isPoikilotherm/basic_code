@@ -1,4 +1,4 @@
-package Lambda.test01;
+package Lambda.test01_noPara_noReturn;
 
 public class test {
     public static void main(String[] args) {
@@ -13,10 +13,15 @@ public class test {
 
 
 
+        //Lambda表达式
         invokeCook(()->{
                 System.out.println("Lambda表达式");
 
         });
+
+
+        //Lambda表达式省略
+        invokeCook(()->System.out.println("Lambda表达式省略"));
 
     }
 

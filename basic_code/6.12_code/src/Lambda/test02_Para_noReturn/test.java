@@ -1,7 +1,6 @@
-package Lambda.test02;
+package Lambda.test02_Para_noReturn;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class test {
     public static void main(String[] args) {
@@ -18,9 +17,14 @@ public class test {
             }
         });*/
 
+        //Lambda表达式
         Arrays.sort(arr,(Person o1, Person o2)->{
             return o2.getAge()-o1.getAge();
         });
+
+
+         //Lambda表达式省略
+        Arrays.sort(arr,(o1,o2)->o2.getAge()-o1.getAge());
 
 
         for (Person person : arr) {

@@ -1,4 +1,4 @@
-package Lambda.test02;
+package Lambda.test02_Para_noReturn;
 
 public class Person {
     private String name;

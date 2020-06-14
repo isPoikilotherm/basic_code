@@ -1,4 +1,4 @@
-package Lambda.test01;
+package Lambda.test01_noPara_noReturn;
 
 public interface Cook {
     void makefood();

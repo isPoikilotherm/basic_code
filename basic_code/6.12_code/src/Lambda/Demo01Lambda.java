@@ -21,6 +21,11 @@ public class Demo01Lambda {
 
 
 
+        //Lambda表达式省略
+        new Thread(()->
+            System.out.println(Thread.currentThread().getName() + "新线程创建了1")
+        ).start();
+
 
 
 
