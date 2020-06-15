@@ -2,7 +2,7 @@ package cn.yl.digui;
 
 
 
-public class Demo01Recurision {
+public class Demo01Recursion {
     public static void main(String[] args) {
         //a();
         b(1);

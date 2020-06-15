@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/6.12_code/6.12_code.iml" filepath="$PROJECT_DIR$/6.12_code/6.12_code.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiGui/DiGui.iml" filepath="$PROJECT_DIR$/DiGui/DiGui.iml" />
       <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filter/Filter.iml" filepath="$PROJECT_DIR$/Filter/Filter.iml" />
     </modules>
   </component>
 </project>
