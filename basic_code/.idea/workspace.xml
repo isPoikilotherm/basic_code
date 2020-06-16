@@ -4,17 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/6.09_code/src/DemoWaitAndNotify/Demo01WaitAndNotify.java" line="49" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="028a4cb7-c5cb-437b-9dfd-d1d5a34d242b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DiGui/src/cn/yl/digui/Demo03Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiGui/src/cn/yl/digui/Demo04Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiGui/src/cn/yl/digui/Demo05Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/Filter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/src/cn/yl/FileFilterImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/src/cn/yl/FilterandLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Filter/src/cn/yl/filter.java" afterDir="false" />
+    <list default="true" id="028a4cb7-c5cb-437b-9dfd-d1d5a34d242b" name="Default Changelist" comment="ddd">
+      <change afterPath="$PROJECT_DIR$/1LeedCode/src/ReverseInteger/ReverseInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiGui/src/cn/yl/digui/Demo01Recurision.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiGui/src/cn/yl/digui/Demo01Recursion.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,59 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Filter/src/cn/yl/filter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="28" column="87" selection-start-line="27" selection-start-column="29" selection-end-line="28" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Filter/src/cn/yl/FilterandLambda.java">
+        <entry file="file://$PROJECT_DIR$/1LeedCode/src/ReverseInteger/ReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo05File.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="51" column="100" selection-start-line="50" selection-start-column="27" selection-end-line="51" selection-end-column="100" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="n#!!doc;n#show02#0;n#Demo05File#0" />
-                <element signature="n#!!doc;n#show01#0;n#Demo05File#0" />
-                <element signature="method#show01#0;class#Demo05File#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo06File.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Filter/src/cn/yl/FileFilterImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="140">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -121,9 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.04_code/src/DemoCalendar/DemoArrayList.java" />
-        <option value="$PROJECT_DIR$/6.04_code/src/DemoCalendar/Demo01Calendar.java" />
-        <option value="$PROJECT_DIR$/6.08_code/src/cn/yk/MapTest.java" />
         <option value="$PROJECT_DIR$/6.08_code/src/cn/yk/DouDIZhuSort.java" />
         <option value="$PROJECT_DIR$/6.08_code/src/DemoThread/MyThread.java" />
         <option value="$PROJECT_DIR$/6.08_code/src/DemoThread/Demo1Thread.java" />
@@ -172,12 +114,15 @@
         <option value="$PROJECT_DIR$/Filter/src/cn/yl/FileFilterImpl.java" />
         <option value="$PROJECT_DIR$/Filter/src/cn/yl/filter.java" />
         <option value="$PROJECT_DIR$/Filter/src/cn/yl/FilterandLambda.java" />
+        <option value="$PROJECT_DIR$/1LeedCode/src/SimplifiedFractions/SimplifiedFractions.java" />
+        <option value="$PROJECT_DIR$/1LeedCode/src/NumbersWithSameConsecutiveDifferences/NumbersWithSameConsecutiveDifferences.java" />
+        <option value="$PROJECT_DIR$/1LeedCode/src/ReverseInteger/ReverseInteger.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2014" />
-    <option name="y" value="148" />
+    <option name="x" value="330" />
+    <option name="y" value="197" />
     <option name="width" value="1384" />
     <option name="height" value="1024" />
   </component>
@@ -190,7 +135,28 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1LeedCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1LeedCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1LeedCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseInteger" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -228,52 +194,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilterandLambda">
-    <configuration name="Demo03Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yl.digui.Demo03Recursion" />
-      <module name="DiGui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yl.digui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo04Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yl.digui.Demo04Recursion" />
-      <module name="DiGui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yl.digui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo05Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yl.digui.Demo05Recursion" />
-      <module name="DiGui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.yl.digui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseInteger">
     <configuration name="FilterandLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.yl.FilterandLambda" />
       <module name="Filter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.yl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbersWithSameConsecutiveDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersWithSameConsecutiveDifferences.NumbersWithSameConsecutiveDifferences" />
+      <module name="1LeedCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumbersWithSameConsecutiveDifferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseInteger.ReverseInteger" />
+      <module name="1LeedCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReverseInteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplifiedFractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimplifiedFractions.SimplifiedFractions" />
+      <module name="1LeedCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SimplifiedFractions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.NumbersWithSameConsecutiveDifferences" />
+        <item itemvalue="Application.SimplifiedFractions" />
         <item itemvalue="Application.FilterandLambda" />
         <item itemvalue="Application.filter" />
-        <item itemvalue="Application.Demo05Recursion" />
-        <item itemvalue="Application.Demo04Recursion" />
-        <item itemvalue="Application.Demo03Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +293,7 @@
       <workItem from="1591671228293" duration="346000" />
       <workItem from="1591672411013" duration="8617000" />
       <workItem from="1591855808623" duration="29585000" />
-      <workItem from="1592198466399" duration="7179000" />
+      <workItem from="1592198466399" duration="21991000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1590739667749</created>
@@ -399,17 +365,24 @@
       <option name="project" value="LOCAL" />
       <updated>1592112961353</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ddd">
+      <created>1592221688654</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1592221688654</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129930000" />
+    <option name="totallyTimeSpent" value="144742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="-1" width="1922" height="1082" extended-state="6" />
+    <frame x="59" y="-1" width="1862" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12513313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19636963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,8 +391,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3382508" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41201264" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23393045" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19810326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -448,33 +421,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.04_code/src/DemoCalendar/Demo01Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///soft/jdk/jdk-14/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-803">
-          <caret line="133" column="19" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.08_code/src/cn/yk/DouDIZhuSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.08_code/src/DemoThread/Demo1Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -835,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo05File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="332">
           <caret line="51" column="100" selection-start-line="50" selection-start-column="27" selection-end-line="51" selection-end-column="100" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -848,8 +794,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo06File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="192">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -863,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/Filter/src/cn/yl/FileFilterImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -873,10 +819,31 @@
     <entry file="file://$PROJECT_DIR$/Filter/src/cn/yl/FilterandLambda.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1LeedCode/src/SimplifiedFractions/SimplifiedFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1LeedCode/src/NumbersWithSameConsecutiveDifferences/NumbersWithSameConsecutiveDifferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1LeedCode/src/ReverseInteger/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -930,10 +897,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>1LeedCode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
