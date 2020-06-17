@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028a4cb7-c5cb-437b-9dfd-d1d5a34d242b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IOStream/IOStream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOStream/src/InputStream/DemoInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOStream/src/OutputStream/Demo01FileOutputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1LeedCode/NumbersWithSameConsecutiveDifferences/NumbersWithSameConsecutiveDifferences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1LeedCode/NumbersWithSameConsecutiveDifferences/NumbersWithSameConsecutiveDifferences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111/111_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/111/111_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +37,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="160">
+              <caret line="8" column="106" selection-start-line="7" selection-start-column="50" selection-end-line="8" selection-end-column="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IOStream/src/InputStream/DemoInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/111/111_4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/111/111_1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="681" lean-forward="true" selection-start-column="681" selection-end-column="681" />
             </state>
           </provider>
         </entry>
@@ -68,9 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.08_code/src/DemoThread/Demo1Thread.java" />
-        <option value="$PROJECT_DIR$/6.07_code/src/DouDiZhu/Play.java" />
-        <option value="$PROJECT_DIR$/6.09_code/src/DemoSynchronized/Demo01.java" />
         <option value="$PROJECT_DIR$/6.09_code/src/DemoSynchronizedMethod/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/6.09_code/src/DemoSynchronizedMethod/RunnableImpl1.java" />
         <option value="$PROJECT_DIR$/6.09_code/src/DemoSynchronized/RunnableImpl.java" />
@@ -119,12 +149,15 @@
         <option value="$PROJECT_DIR$/1LeedCode/src/ReverseInteger/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/IOStream/src/OutputStream/FileOutputStream.java" />
         <option value="$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java" />
+        <option value="$PROJECT_DIR$/IOStream/src/OutputStream/Demo01FileOutputStream.java" />
+        <option value="$PROJECT_DIR$/111/111_1.txt" />
+        <option value="$PROJECT_DIR$/IOStream/src/InputStream/DemoInputStream.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="330" />
-    <option name="y" value="197" />
+    <option name="x" value="397" />
+    <option name="y" value="158" />
     <option name="width" value="1384" />
     <option name="height" value="1024" />
   </component>
@@ -132,11 +165,26 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="basic_code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/basic_code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/IdeaProjects/basic_code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="111" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,6 +196,12 @@
               <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
               <item name="IOStream" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OutputStream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,7 +244,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoFileOutputStream">
+  <component name="RunManager" selected="Application.DemoInputStream">
+    <configuration name="Demo01FileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutputStream.Demo01FileOutputStream" />
+      <module name="IOStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OutputStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OutputStream.DemoFileOutputStream" />
       <module name="IOStream" />
@@ -204,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterandLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.yl.FilterandLambda" />
-      <module name="Filter" />
+    <configuration name="DemoInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputStream.DemoInputStream" />
+      <module name="IOStream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.yl.*" />
+          <option name="PATTERN" value="InputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,26 +310,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimplifiedFractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimplifiedFractions.SimplifiedFractions" />
-      <module name="1LeedCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SimplifiedFractions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoInputStream" />
+        <item itemvalue="Application.Demo01FileOutputStream" />
         <item itemvalue="Application.DemoFileOutputStream" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.NumbersWithSameConsecutiveDifferences" />
-        <item itemvalue="Application.SimplifiedFractions" />
-        <item itemvalue="Application.FilterandLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +343,8 @@
       <workItem from="1591671228293" duration="346000" />
       <workItem from="1591672411013" duration="8617000" />
       <workItem from="1591855808623" duration="29585000" />
-      <workItem from="1592198466399" duration="24728000" />
+      <workItem from="1592198466399" duration="24992000" />
+      <workItem from="1592373002974" duration="6403000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1590739667749</created>
@@ -375,16 +430,24 @@
       <option name="project" value="LOCAL" />
       <updated>1592290936143</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ddd">
+      <created>1592311612222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1592311612222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147479000" />
+    <option name="totallyTimeSpent" value="154146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-1" width="1862" height="1082" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19636963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19856986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +456,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23393045" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.312961" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19810326" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,44 +486,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.07_code/src/DouDiZhu/Play.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.09_code/src/DemoSynchronizedMethod/Demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.09_code/src/DemoSynchronizedMethod/RunnableImpl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.09_code/src/DemoSynchronized/RunnableImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.09_code/src/DemoSynchronized/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.09_code/src/DemoLock/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -706,13 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Filter/src/Demo01Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Filter/src/Demo01Filter.java" />
     <entry file="file://$PROJECT_DIR$/6.12_code/src/cn/yl/ThreadPool/RunnableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -826,9 +845,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IOStream/src/OutputStream.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream/src/OutputStream.java" />
     <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo03File.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -844,10 +861,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///soft/jdk/jdk-14/lib/src.zip!/java.base/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="309" column="16" selection-start-line="309" selection-start-column="16" selection-end-line="309" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream/src/OutputStream/Demo01FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IOStream/src/OutputStream/DemoFileOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="160">
+          <caret line="8" column="106" selection-start-line="7" selection-start-column="50" selection-end-line="8" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111/111_1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="681" lean-forward="true" selection-start-column="681" selection-end-column="681" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111/111_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IOStream/src/InputStream/DemoInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
