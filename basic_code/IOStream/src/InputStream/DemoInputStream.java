@@ -25,11 +25,16 @@ public class DemoInputStream {
        /* int read = fis.read();//读取文件中的一个字节并返回，读到末尾返回-1，读完指针后移一位，可以继续读
         System.out.println(read);*/
 
-       byte[] bytes=new byte[3];
-        int i = fis.read(bytes);
+        byte[] bytes=new byte[1024];
+       /* int i = fis.read(bytes);
         System.out.println(i);//3
         System.out.println(Arrays.toString(bytes));//[97, 66, 67]
-        System.out.println(new String(bytes));//aBC
+        System.out.println(new String(bytes));//aBC*/
+       int len=0;
+       len=fis.read(bytes);
+       System.out.println(len);
+       System.out.println(new String(bytes,0,len));
+
 
 
         fis.close();
