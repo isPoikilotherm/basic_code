@@ -19,7 +19,7 @@ public class DemoFileCopy {
         }*/   //一次读取一个字节，速度慢
         byte[] bytes=new byte[1024];
         int len=0;
-        while (( len=fisr.read(bytes))!=-1){
+        while ((len=fisr.read(bytes))!=-1){
             fisw.write(bytes,0,len);
         }
 
