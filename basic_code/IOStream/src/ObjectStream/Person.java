@@ -7,9 +7,6 @@ public class Person implements Serializable {//想要进行序列化或者反序
     private String name;
     private int age;
 
-
-
-
     public Person() {
     }
 

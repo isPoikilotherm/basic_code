@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028a4cb7-c5cb-437b-9dfd-d1d5a34d242b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/111/111_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/111/111_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IOStream/src/OutputStreamWriter/DemoOutputStreamWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStream/src/OutputStreamWriter/DemoOutputStreamWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectOutputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -49,8 +46,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="240">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,18 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="78">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -96,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.11_code/src/cn/yl/Customer.java" />
         <option value="$PROJECT_DIR$/6.11_code/src/cn/yl/Shop.java" />
         <option value="$PROJECT_DIR$/6.12_code/src/cn/yl/RunnableImpl.java" />
         <option value="$PROJECT_DIR$/6.12_code/src/cn/yl/Demo01ThreadPool.java" />
@@ -146,6 +135,7 @@
         <option value="$PROJECT_DIR$/IOStream/src/Buffered/Test.java" />
         <option value="$PROJECT_DIR$/IOStream/src/OutputStreamWriter/DemoOutputStreamWriter.java" />
         <option value="$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectOutputStream.java" />
+        <option value="$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectInputStream.java" />
         <option value="$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java" />
       </list>
     </option>
@@ -165,28 +155,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OutputStream" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -216,6 +184,28 @@
               <item name="IOStream" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Reader" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OutputStream" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,7 +349,8 @@
       <workItem from="1592198466399" duration="24992000" />
       <workItem from="1592373002974" duration="9525000" />
       <workItem from="1592634940704" duration="7026000" />
-      <workItem from="1592723895782" duration="16530000" />
+      <workItem from="1592723895782" duration="17438000" />
+      <workItem from="1592823364501" duration="2446000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1590739667749</created>
@@ -487,17 +478,23 @@
       <option name="project" value="LOCAL" />
       <updated>1592799206829</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ddd">
+      <created>1592816168093</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592816168093</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180824000" />
+    <option name="totallyTimeSpent" value="184178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="-1" width="1862" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17656766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17821783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +503,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8960396" visible="true" weight="0.2170706" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8960396" weight="0.2170706" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49944994" weight="0.23287672" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,7 +512,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.103960395" side_tool="true" visible="true" weight="0.2170706" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.103960395" side_tool="true" visible="true" weight="0.21496312" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.20126449" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -535,18 +532,19 @@
     <MESSAGE value="ddd" />
     <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///soft/jdk/jdk-14/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>239</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6.12_code/src/Lambda/test03_Para_Return/test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/File/src/cn/yl/file/Demo02File.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -909,34 +907,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java">
+    <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectOutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="220">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///soft/jdk/jdk-14/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="237" column="18" selection-start-line="237" selection-start-column="18" selection-end-line="237" selection-end-column="18" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#10008#10009#0" expanded="true" />
+            <element signature="e#10091#10092#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectOutputStream.java">
+    <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="78">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IOStream/src/ObjectStream/DemoObjectInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="240">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
